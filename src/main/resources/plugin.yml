@@ -1,0 +1,9 @@
+name: PrefixPlugin
+version: 1.0.0
+author: hayatarou_
+
+main: net.bindunity.prefixplugin.PrefixPlugin
+
+commands:
+  prefix:
+    description: Prefix Command
